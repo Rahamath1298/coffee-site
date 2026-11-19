@@ -290,7 +290,7 @@ function App() {
       )}
 
       {/* Footer */}
-      <footer className="bg-[#2c1810] text-amber-200/60 py-8 mt-12">
+      <footer className="bg-[#2c1810] text-amber-200/60 py-10 mt-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <div className="flex items-center justify-center gap-2 mb-3">
             <Coffee className="w-5 h-5 text-amber-400" />
